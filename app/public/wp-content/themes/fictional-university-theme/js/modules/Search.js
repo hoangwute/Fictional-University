@@ -76,10 +76,6 @@ class Search {
 				`);
 		});
 	}
-
-	testGit() {
-		alert("hello git for second time");
-	}
 }
 
 export default Search;
