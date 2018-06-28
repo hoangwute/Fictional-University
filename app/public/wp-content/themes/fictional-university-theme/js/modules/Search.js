@@ -78,7 +78,7 @@ class Search {
 	}
 
 	testGit() {
-		alert("hello git");
+		alert("hello git for second time");
 	}
 }
 
